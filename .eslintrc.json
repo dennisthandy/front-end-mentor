@@ -21,6 +21,8 @@
     ],
     "rules": {
       "no-undef": "off",
+      "jsx-a11y/anchor-is-valid": ["off"],
+      "react/prop-types": ["off"],
       "react/react-in-jsx-scope": ["off"],
       "import/no-unresolved": ["off"],
       "react/jsx-props-no-spreading": ["off"],
